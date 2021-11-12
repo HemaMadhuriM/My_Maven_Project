@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.hema.madhuri.selenium.maven.Testdemo"/>
+      <class name="com.hema.madhuri.selenium.maven.sampletest2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
