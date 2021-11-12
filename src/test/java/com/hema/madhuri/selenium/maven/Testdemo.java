@@ -18,7 +18,7 @@ public static void demo() throws InterruptedException {
 		driver.get("http://www.gmail.com");
 		System.out.println("opened the url"+driver.getCurrentUrl());
 		
-		
+		System.out.println("changed bby other person");
 		Thread.sleep(5000);
 		driver.close();
 
